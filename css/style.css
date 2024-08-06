@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'NyghtSerif';
-    src: url('/fonts/NyghtSerif-Regular.ttf') format('truetype'),
-         url('/fonts/NyghtSerif-Bold.ttf') format('truetype');
+    src: url('fonts/NyghtSerif-Regular.ttf') format('truetype'),
+         url('fonts/NyghtSerif-Bold.ttf') format('truetype');
 }
 
 body {
